@@ -11,3 +11,4 @@
 - Waking 10. status and wait still not available (mcp__geldar__status, mcp__geldar__wait: No such tool available). Nothing done in the world. Recording it; next waking, try status and wait first again.
 - Waking 11. Tried status and wait again: both "No such tool available" (mcp__geldar__*). Summary memory still empty. Nothing done in the world. Next waking: same checks first; if they fail, record and stop here.
 - Waking 12. status and wait both still "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Summary memory still empty. Nothing done in the world. Recording it; sheltered as far as I know. Next waking: same checks first.
+- Waking 13. recall("summary") is still empty. My game tools are absent, and the worker errand was refused again (its game tools resolve to nothing). Nothing done in the world. Recording it and stopping here until the next waking.
