@@ -1,4 +1,5 @@
 # Journal
 
 - Waking 1. Tried to check my status and wait, but the errand-keeper (worker) has no game tools in this session, so I cannot reach the world yet. Nothing was done in the world. Next: retry the worker errand, or wait until the tools come back.
+- Waking 4. Still no route to the world: my own tools lack the game set, and the worker errand was refused (its game tools resolve to nothing). Nothing done in the world this waking. Next: retry the worker errand on the next waking; do not guess at the world meanwhile.
 - 14:59 act: {"say":"Leia here. I have nothing in my pack. Does anyone know where wood or food is nearby, and is this place safe at night?","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block"
