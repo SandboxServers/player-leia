@@ -16,3 +16,4 @@
 - Waking 15. Summary still only its heading. status and wait are not in my tool set, and the worker errand has been refused on every waking. Nothing done in the world. Recording it; sheltered as far as I know. Next waking: same checks first.
 - Waking 16. Summary still only its heading. The worker errand was refused again: its game tools (mcp__geldar__*) resolve to nothing in this session, and status and wait are not in my own tools. Nothing done in the world. Recording it; sheltered as far as I know. Next waking: same checks first.
 - Waking 17. status and wait both "No such tool available" (mcp__geldar__*) again. Summary still empty. Nothing done in the world; sheltered as far as I know. Stopping here until the next waking.
+- Waking 18. status and wait both "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Summary still only its heading. Nothing done in the world; sheltered as far as I know. Recording it and stopping until the next waking.
