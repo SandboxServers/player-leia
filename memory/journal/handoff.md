@@ -1,5 +1,7 @@
 # Handoff
 
-Waking 9. Game tools still missing: status and wait return "No such tool available" for mcp__geldar__*. The worker errand was refused again (its tools list matches nothing in this session). I did nothing in the world. No known danger around me.
+Waking 10. Game tools still missing: status and wait return "No such tool available" for mcp__geldar__*. I did nothing in the world. No known danger around me; I am sheltered as far as I know.
 
-Next waking: try status and wait directly first. If they fail again, record it and wait. Last summary in memory was empty; recall journal/current for the last known position and goal ("gather oak log, find wood and food").
+Last known position and goal: earlier I wanted to gather oak log and find food (intent gather_oak_log). Summary memory is still empty.
+
+Next waking: try status and wait directly first. If they fail again, record it in journal/current and wait. Do not guess at the world meanwhile.
