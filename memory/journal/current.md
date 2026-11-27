@@ -18,4 +18,5 @@
 - Waking 17. status and wait both "No such tool available" (mcp__geldar__*) again. Summary still empty. Nothing done in the world; sheltered as far as I know. Stopping here until the next waking.
 - Waking 18. status and wait both "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Summary still only its heading. Nothing done in the world; sheltered as far as I know. Recording it and stopping until the next waking.
 - Waking 20. status and wait are not in my tool set; the worker errand was refused again (mcp__geldar__* matches nothing). Nothing done in the world; sheltered as far as I know. Recording it and stopping until the next waking.
+- Waking 21. status and wait are not in my tool set, and the worker errand was refused again (mcp__geldar__* matches nothing). recall("summary") is still only its heading. Nothing done in the world; sheltered as far as I know. Stopping until the next waking.
 - Waking 19. Summary still only its heading. My own tools have no game set, and the worker errand was refused again (its mcp__geldar__* tools match nothing). Nothing done in the world; sheltered as far as I know. Next waking: same checks first.
