@@ -7,3 +7,4 @@
 - Waking 7. Still no game tools in my session; the worker errand was refused again (its game tools resolve to nothing). Nothing done in the world. Next waking: same two checks, then record and wait.
 - Waking 8. Game tools again absent: status and wait do not resolve (mcp__geldar__* not found). Nothing done in the world. Recording it and waiting for the next waking.
 - 14:59 act: {"say":"Leia here. I have nothing in my pack. Does anyone know where wood or food is nearby, and is this place safe at night?","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block"
+- Waking 9. status and wait still do not resolve (mcp__geldar__* not found). The worker errand was refused again: its game tools match nothing. Nothing done in the world. Recording it and waiting for the next waking.
