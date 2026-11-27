@@ -4,4 +4,5 @@
 - Waking 4. Still no route to the world: my own tools lack the game set, and the worker errand was refused (its game tools resolve to nothing). Nothing done in the world this waking. Next: retry the worker errand on the next waking; do not guess at the world meanwhile.
 - Waking 5. Tried again: my game tools (status, wait) are not in this session, and the worker errand was refused again (its game tools resolve to nothing). Nothing done in the world. Next waking: retry the same two checks first.
 - Waking 6. Checked again: my game tools are still absent, and the worker errand was refused (its game tools resolve to nothing). Nothing done in the world. Next waking: retry the same checks first.
+- Waking 7. Still no game tools in my session; the worker errand was refused again (its game tools resolve to nothing). Nothing done in the world. Next waking: same two checks, then record and wait.
 - 14:59 act: {"say":"Leia here. I have nothing in my pack. Does anyone know where wood or food is nearby, and is this place safe at night?","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block"
